@@ -1104,4 +1104,4 @@ import {jQuery} from "meteor/jquery"
     };
   };
 
-}(jQuery));
+}(global.jQuery || global.$ || jQuery));
