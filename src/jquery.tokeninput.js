@@ -1,4 +1,4 @@
-import jQuery from "jquery"
+import {jQuery} from "meteor/jquery"
 /*
  * jQuery Plugin: Tokenizing Autocomplete Text Entry
  * Version 1.6.2

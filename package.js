@@ -7,12 +7,9 @@ Package.describe({
   documentation: 'README.md'
 });
 
-Npm.depends({
-  "jquery": "2.2.3"
-});
-
 Package.onUse(function(api) {
   api.versionsFrom('1.3');
+  api.use("jquery");
   api.use('ecmascript');
 
   api.mainModule('src/jquery.tokeninput.js', 'client');
