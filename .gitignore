@@ -4,3 +4,5 @@ _layouts
 gh-pages
 *.sw*
 node_modules
+.idea
+.npm
