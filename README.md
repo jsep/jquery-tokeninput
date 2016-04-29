@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/jsep/jquery-tokeninput.svg?branch=master)](https://travis-ci.org/jsep/jquery-tokeninput)
 jQuery Tokeninput: A Tokenizing Autocomplete Text Entry
 =======================================================
 
