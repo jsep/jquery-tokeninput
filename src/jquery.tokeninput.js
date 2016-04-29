@@ -1,3 +1,4 @@
+import jQuery from "jquery"
 /*
  * jQuery Plugin: Tokenizing Autocomplete Text Entry
  * Version 1.6.2
