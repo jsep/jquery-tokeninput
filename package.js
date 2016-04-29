@@ -1,6 +1,6 @@
 Package.describe({
   name: 'jsep:jquery.tokeninput',
-  version: '1.6.2_1',
+  version: '1.6.2_2',
   // Brief, one-line summary of the package.
   summary: 'A Tokenizing Autocomplete Text Entry',
   git: 'https://github.com/jsep/jquery-tokeninput',
